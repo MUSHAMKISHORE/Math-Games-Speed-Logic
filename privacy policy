@@ -1,11 +1,8 @@
 Math Games – Speed & Logic does not collect, store, or share any personal data.
 
 The app does not require user registration.
-All game progress such as coins, levels, and avatars is stored locally on the device.
+All game data such as coins, levels, and avatars are stored locally on the device only.
 
-The app includes the Google Mobile Ads SDK for testing purposes only.
-Ads are currently not shown to users.
-
-If ads are enabled in the future, they will comply with Google Play Families Policy requirements, and this policy will be updated accordingly.
+The app does not use advertising or analytics SDKs.
 
 Contact: kishcbit@gmail.com
